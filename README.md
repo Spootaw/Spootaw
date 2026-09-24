@@ -38,6 +38,23 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
+### 🔥 Activity & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spootaw&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spootaw&theme=algolia&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,expo,nodejs,nestjs,prisma,tailwind,docker,git" />
+</p>
+
+
 
 ## 🐍 Contribution trail
 
