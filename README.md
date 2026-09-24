@@ -35,7 +35,7 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=donut-vertical&theme=default" alt="Top Languages" />
 </p>
 
 ### 🔥 Activity & Streaks
