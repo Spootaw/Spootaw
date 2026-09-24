@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Lead+Front-End+Engineer+%2812%2B+Years%29;React+%C2%B7+Next.js+%C2%B7+TypeScript;Front-End+Architecture+%26+Design+Systems;Fixing+one+bug+at+a+time+%F0%9F%94%A7)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/amiroo0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amiroo0)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiroooo@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Spootaw-181717?style=for-the-badge&logo=github)](https://github.com/Spootaw)
 
