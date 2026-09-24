@@ -28,7 +28,6 @@ I'm a **Lead Front-End Engineer** with **12+ years of experience** building ente
 - 🏢 **Currently:** Front-End Team Lead at Rahbord Houshmand Shahr
 - 🏗️ **Focus:** Front-end architecture, design systems, web performance
 - ⚡ **Status:** Fixing one bug at a time
-- 📍 **Based in:** Iran
 
 <br clear="right" />
 
