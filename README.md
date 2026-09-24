@@ -14,12 +14,23 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Lead Front-End Engineer** with **12+ years of experience** architecting and building high-performance enterprise web applications. I specialize in the modern **React & Next.js ecosystem, TypeScript, scalable state management, and design systems**.
+<div align="center">
+  <img
+    align="right"
+    width="36%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Spootaw&theme=default&hide_border=true"
+    alt="Spootaw's GitHub streak"
+  />
+</div>
 
-- 🏢 **Currently:** Lead Front-End Engineer at **Rahbord Houshmand Shahr** ([smartispay.app](https://smartispay.app))
-- 🏗️ **Core Focus:** Enterprise Architecture, Design Systems, Web Performance Optimization, Micro-Frontends & CI/CD Pipelines
-- ⚡ **Philosophy:** Writing clean, testable, and maintainable code — *Fixing one bug at a time.*
-- 📍 **Location:** Tehran, Iran
+I'm a **Lead Front-End Engineer** with **12+ years of experience** building enterprise web applications. I focus on React, Next.js, TypeScript, front-end architecture, design systems, and helping teams deliver reliable products.
+
+- 🏢 **Currently:** Front-End Team Lead at Rahbord Houshmand Shahr ([Smartis Pay](https://smartispay.app))
+- 🏗️ **Focus:** Front-end architecture, design systems, web performance, and CI/CD
+- ⚡ **Status:** Fixing one bug at a time
+- 📍 **Based in:** Iran
+
+<br clear="right" />
 
 ---
 
@@ -90,22 +101,28 @@ I am a **Lead Front-End Engineer** with **12+ years of experience** architecting
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spootaw&show_icons=true&theme=algolia&include_all_commits=true" alt="Spootaw's GitHub stats" />
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 12px;">
+    <img
+      width="49%"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spootaw&show_icons=true&theme=algolia&include_all_commits=true"
+      alt="Spootaw's GitHub stats"
+    />
+    <img
+      width="49%"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=algolia"
+      alt="Spootaw's top languages"
+    />
+  </div>
+</div>
+
+### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=algolia" alt="Top Languages" />
-</p>
-
-### 🔥 Activity & Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spootaw&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Spootaw&theme=material&radius=10&area=true&hide_border=true" alt="Activity Graph" />
+  <img
+    src="https://fabianocouto-activity-graph.vercel.app/graph?username=Spootaw&theme=material&radius=10&area=true&hide_border=true"
+    alt="Spootaw's GitHub activity graph"
+  />
 </p>
 
 ### 🐍 Contribution Trail
