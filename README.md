@@ -100,3 +100,6 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=dark_dimmed&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Spootaw&theme=material&radius=10&area=true&hide_border=true" alt="Activity Graph" />
+</p>
