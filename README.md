@@ -24,7 +24,7 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,expo,nodejs,nestjs,prisma,tailwind,docker,git&perline=11" alt="React, Next.js, TypeScript, JavaScript, Expo, Node.js, NestJS, Prisma, Tailwind CSS, Docker, Git" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,prisma,tailwind,docker,git&perline=11" alt="React, Next.js, TypeScript, JavaScript, Expo, Node.js, NestJS, Prisma, Tailwind CSS, Docker, Git" />
   </a>
 </p>
 
