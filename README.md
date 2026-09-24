@@ -68,6 +68,12 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
   <img src="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake.svg" alt="A snake eating my GitHub contribution graph" />
 </p>
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
 ---
 
 <div align="center">
@@ -75,9 +81,3 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 **Thanks for stopping by!** Feel free to explore my repositories or connect with me.
 
 </div>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=algolia&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
