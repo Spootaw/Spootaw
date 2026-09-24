@@ -71,7 +71,7 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=discord&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=monokai&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
