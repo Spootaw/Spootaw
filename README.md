@@ -49,11 +49,6 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 </p>
 
 ### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Spootaw&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spootaw&theme=algolia" alt="GitHub Profile Details" />
 </p>
