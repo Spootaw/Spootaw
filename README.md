@@ -96,15 +96,6 @@ I'm a **Lead Front-End Engineer** with **12+ years of experience** building ente
 | **[Contractbar](https://contractbar.ir)** | Legal / Contracts Platform | Drupal, Twig, PHP, Sass |
 
 ---
-### 🐍 Contribution Trail
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 ## 📊 GitHub Analytics
 
@@ -130,6 +121,16 @@ I'm a **Lead Front-End Engineer** with **12+ years of experience** building ente
     src="https://fabianocouto-activity-graph.vercel.app/graph?username=Spootaw&theme=material&radius=10&area=true&hide_border=true"
     alt="Spootaw's GitHub activity graph"
   />
+</p>
+
+### 🐍 Contribution Trail
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Spootaw/Spootaw/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ### 🏆 Achievements & Badges
