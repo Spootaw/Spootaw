@@ -29,7 +29,6 @@ I'm a **Lead Front-End Engineer** with **12+ years of experience** building ente
 - 🏗️ **Focus:** Front-end architecture, design systems, web performance
 - ⚡ **Status:** Fixing one bug at a time
 <br clear="right" />
-
 ---
 
 ## 🛠️ Technical Stack & Expertise
