@@ -31,17 +31,17 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spootaw&show_icons=true&theme=algolia&include_all_commits=true" alt="Spootaw's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Spootaw&show_icons=true&theme=default&include_all_commits=true" alt="Spootaw's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Spootaw&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ### 🔥 Activity & Streaks
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spootaw&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spootaw&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spootaw&theme=algolia" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spootaw&theme=default" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ I'm a Lead Front-End Engineer with 12+ years of experience building web and mobi
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=nord&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Spootaw&theme=default&no-bg=true&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 ---
